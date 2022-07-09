@@ -1,5 +1,5 @@
 # Instgram-Mass-DM
-- You can send a range of DMs to your target user groups
+- You can send a bunch of DMs to your target user groups
 - Low banning rate against your accounts
 - To get this bot visit my webiste: https://socialhack.sellix.io/
 
